@@ -3,4 +3,5 @@
 ## Лабораторная работа 4:
 
 [отчет]()
+
 [лаба4](https://github.com/SvetlanaSel/Distributed_systems/blob/main/lab4.ipynb)
