@@ -1,4 +1,4 @@
-id_user;first_name;last_name;email;gender;phone;actions;country;id_product;pr_name;price;sales_count;availability
+﻿id_user;first_name;last_name;email;gender;phone;actions;country;id_product;pr_name;price;sales_count;availability
 1;Genevieve;de Chastelain;gdechastelain0@live.com;Female;742-101-1820;view;Ukraine;1000;HTC Evo 4G;965;381;sold
 2;Myrtie;Beirne;mbeirne1@pagesperso-orange.fr;Female;562-952-3050;buy;Serbia;2;Samsung S3310;1545;382;sold
 3;Tate;Obispo;tobispo2@pinterest.com;Female;651-245-0790;shopping_cart;Indonesia;3;verykool s4008 Leo V;1272;383;sold
